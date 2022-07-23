@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "prueba",
+            "database": "${workspaceFolder:prueba-nest}/shoppingDB"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
